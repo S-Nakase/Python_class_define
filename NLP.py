@@ -43,6 +43,8 @@ class NLP():
 # sentence.pos()
 # sentence2 = NLP()
 # sentence2.ngram_dic2()
+# sentence3 = NLP()
+# sentence3.ngram_dic3()
 
 
 # class NextWord(NLP):
@@ -82,6 +84,5 @@ class NLP():
 #         return u
 
 
-# sentence3 = NLP_2()
-# sentence3.ngram_dic3()
+
 
